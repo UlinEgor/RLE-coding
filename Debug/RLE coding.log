@@ -1,0 +1,21 @@
+﻿  RLE coding.cpp
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(11,27): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(37,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(49,69): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(63,17): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(63,31): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(75,19): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(75,75): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(80,37): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(81,26): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(84,19): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(85,37): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(86,26): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(95,62): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(100,41): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(100,66): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(109,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(123,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Egor\source\repos\RLE coding\RLE coding\RLE coding.cpp(129,14): warning C4018: <: несоответствие типов со знаком и без знака
+  RLE coding.vcxproj -> C:\Users\Egor\source\repos\RLE coding\Debug\RLE coding.exe
